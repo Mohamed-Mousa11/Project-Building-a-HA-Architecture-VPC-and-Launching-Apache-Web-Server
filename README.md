@@ -1,5 +1,6 @@
 Building HA Architecture VPC and Launching Apache Web Server
-## **![architecture](https://github.com/user-attachments/assets/af0733a1-8469-464b-a4c2-345fa371e79e)
+
+## ![architecture](https://github.com/user-attachments/assets/af0733a1-8469-464b-a4c2-345fa371e79e)
 Overview**
 This project involves creating a secure and scalable Virtual Private Cloud (VPC) architecture with public and private subnets in two Availability Zones. It includes deploying a web server in one of the public subnets, and enabling private subnets to access the internet using a NAT Gateway.
 
