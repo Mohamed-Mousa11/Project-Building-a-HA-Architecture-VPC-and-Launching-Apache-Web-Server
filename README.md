@@ -1,4 +1,4 @@
-Building HA Architecture VPC and Launching Apache Web Server
+# Building HA Architecture VPC and Launching Apache Web Server
 
 ## ![architecture](https://github.com/user-attachments/assets/af0733a1-8469-464b-a4c2-345fa371e79e)
 Overview**
